@@ -11,5 +11,4 @@ if (hourNow > 18) {
 } else {
     greeting = 'Welcome home!';
 }
-
 document.write('<h3>' + greeting + '</h3>');
